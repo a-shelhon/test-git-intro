@@ -8,3 +8,4 @@ packageLoad <-
     }
   }
 packageLoad('tidyverse')
+gitcreds::gitcreds_set()
