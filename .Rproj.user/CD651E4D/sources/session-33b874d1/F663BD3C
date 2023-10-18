@@ -3,7 +3,7 @@
     "path": "~/test-git-intro/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "2947384789",
+    "hash": "2640875994",
     "contents": "",
     "dirty": false,
     "created": 1697639420273.0,
@@ -18,14 +18,14 @@
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "75:0"
+        "rmdVisualModeLocation": "135:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1697639706,
+    "lastKnownWriteTime": 1697641335,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1697639707031,
+    "last_content_update": 1697641335477,
     "read_only": false,
     "read_only_alternatives": []
 }
